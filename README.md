@@ -1,7 +1,7 @@
 Hiya!
 I'm Clara or Bee, a highschool student learning programming through dual enrollment classes.
 
-I am currently in: ITD 210: Web Page Design & Multimedia, DE.
+I am currently in= ITD 210: Web Page Design & Multimedia, DE.
 
 This Github profile is being used for schoolwork and personal projects.
 
