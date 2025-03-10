@@ -19,6 +19,7 @@ At the moment, I know:
 My experience:
 - Creating basic wordpress website
 - Creating basic HTML & CSS websites
+- Collaborating with others to create a website on a single repository
 
 I have achieved:
 - Nothing... yet
