@@ -10,13 +10,16 @@ I hope to learn enough to have a programming career, and possibly learn game des
 At the moment, I am learning:
 - HTML
 - CSS
+
 At the moment, I know:
 - Basic HTML
 - Basic CSS
 - Wordpress
+
 My experience:
 - Creating basic wordpress website
 - Creating basic HTML & CSS websites
+
 I have achieved:
 - Nothing... yet
 - working on a certification though! :)
