@@ -22,8 +22,9 @@ My experience:
 - Collaborating with others to create a website on a single repository
 
 I have achieved:
-- Nothing... yet
-- working on a certification though! :)
+- Certified Entry-Level Web Developer
+   Issuer: JS Institute
+- Working on more!
 
 If you want to check out my work, please visit my class website at CWahl28.github.io!
 
