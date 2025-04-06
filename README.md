@@ -10,6 +10,7 @@ I hope to learn enough to have a programming career, and possibly learn game des
 At the moment, I am learning:
 - HTML
 - CSS
+- Javascript
 
 At the moment, I know:
 - Basic HTML
