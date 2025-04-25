@@ -22,7 +22,8 @@ My experience:
 
 I have achieved:
 - Certified Entry-Level Web Developer
-   Issuer: JS Institute
+
+  Issuer: JS Institute
 - Working on more!
 
 If you want to check out my work, please visit my class website at CWahl28.github.io!
