@@ -1,19 +1,18 @@
 Hiya!
-I'm Clara or Beau, a highschool student learning programming through dual enrollment classes.
-
-I am currently in= ITD 210: Web Page Design & Multimedia, DE.
+I'm Clara or Bea, a highschool student learning programming through classes.
 
 This Github profile is being used for schoolwork and personal projects.
 
 I hope to learn enough to have a programming career, and possibly learn game design eventually.
 
 At the moment, I am learning:
-- Javascript
+- Python
 
 At the moment, I know:
 - HTML
 - CSS
 - Wordpress
+- Javascript
 
 My experience:
 - Designing wordpress website
@@ -26,6 +25,6 @@ I have achieved:
   Issuer: JS Institute
 - Working on more!
 
-If you want to check out my work, please visit my class website at CWahl28.github.io!
+If you want to check out my work, please visit my website at CWahl28.github.io!
 
 :>
