@@ -13,6 +13,7 @@ At the moment, I know:
 - CSS
 - Wordpress
 - Javascript
+- Basic Python
 
 My experience:
 - Designing wordpress website
@@ -21,6 +22,9 @@ My experience:
 
 I have achieved:
 - Certified Entry-Level Web Developer
+
+  Issuer JS Institute
+- PCEP Certified Entry-Level Python Programmer
 
   Issuer: JS Institute
 - Working on more!
