@@ -25,7 +25,3 @@ I have achieved:
 
   Issuer: JS Institute
 - Working on more!
-
-If you want to check out my work, please visit my website at CWahl28.github.io!
-
-:>
