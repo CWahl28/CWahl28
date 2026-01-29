@@ -1,5 +1,5 @@
 Hiya!
-I'm Clara or Bea, a highschool student learning programming through classes.
+I'm Beau or Bea, a highschool student learning programming through classes.
 
 This Github profile is being used for schoolwork and personal projects.
 
